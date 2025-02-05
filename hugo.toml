@@ -6,3 +6,6 @@ publishDir = "docs"
 
 relativeURLs = false
 canonifyURLs = true
+
+[params.assets]
+disableFingerprinting = true
