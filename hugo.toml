@@ -1,5 +1,8 @@
-baseURL = "https://github.com/varunbhogal/portfolio-site"
+baseURL = "https://varunbhogal.github.io/portfolio-site/"
 languageCode = "en-us"
 title = "My Portfolio"
 theme = "PaperMod"
 publishDir = "docs"
+
+relativeURLs = true
+canonifyURLs = true
